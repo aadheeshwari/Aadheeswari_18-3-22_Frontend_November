@@ -1,0 +1,6 @@
+5) Name some CSS style components.
+
+
+     => Selector
+     => Property
+     => Value

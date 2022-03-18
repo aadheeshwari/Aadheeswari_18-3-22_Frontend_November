@@ -1,0 +1,8 @@
+3) What are the different variations of CSS?
+
+
+        => CSS1
+        => CSS2
+        => CSS2.1
+        => CSS3
+        => CSS4

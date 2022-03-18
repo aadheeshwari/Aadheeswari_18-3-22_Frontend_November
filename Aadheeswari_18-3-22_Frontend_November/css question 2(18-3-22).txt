@@ -1,0 +1,4 @@
+2)  What is the origin of CSS?
+
+
+          SGML (Standard Generalized Markup Language) is the origin of CSS. It is a language that defines markup languages.

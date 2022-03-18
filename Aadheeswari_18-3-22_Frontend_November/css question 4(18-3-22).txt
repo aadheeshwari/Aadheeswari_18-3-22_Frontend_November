@@ -1,0 +1,8 @@
+4)What are the advantages of CSS?
+
+
+      => Bandwidth
+      => Site-wide consistency
+      => Page reformatting
+      => Accessibility
+      => Content separated from presentation

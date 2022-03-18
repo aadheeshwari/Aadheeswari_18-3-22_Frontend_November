@@ -1,0 +1,5 @@
+1) What is CSS?
+          
+
+          CSS stands for Cascading Style Sheet. It is a popular styling language which is used with HTML to design websites.
+It can also be used with any XML documents including plain XML, SVG, and XUL
